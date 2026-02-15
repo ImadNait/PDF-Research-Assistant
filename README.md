@@ -13,8 +13,8 @@ AI-powered PDF research assistant using Retrieval-Augmented Generation (RAG). Up
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/documind.git
-cd documind
+git clone https://github.com/ImadNait/PDF-Research-Assistant/
+cd PDF-Research-Assistant
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
