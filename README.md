@@ -58,7 +58,3 @@ Then select mode 2 when running the assistant.
 3. Embeddings are stored in ChromaDB
 4. User queries are matched against stored chunks
 5. Relevant context is retrieved and displayed
-
-## License
-
-MIT
