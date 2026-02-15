@@ -51,6 +51,7 @@ pip install langchain-ollama
 
 Then select mode 2 when running the assistant.
 
+
 ## How It Works
 
 1. PDFs are loaded and split into chunks
